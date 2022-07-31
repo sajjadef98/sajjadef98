@@ -16,9 +16,6 @@
 
 <a class="ml-25" href="https://www.instagram.com/phpdevelop.er/" target="_blank"><span class="float-md-right ">Instageram page phpdevelop.er  </span></a>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-
 
 <!---
 sajjadef98/sajjadef98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
