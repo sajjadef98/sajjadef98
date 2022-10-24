@@ -9,7 +9,7 @@
 
 <div>
   <h1> About Me </h1>
-  <p> <b>Full Stack Web Developer</b> . Lover of PHP and C. Fluent in JavaScript 100% Java 20% C 100% b4x 80% and laravel Framework codeIgnier, livewire , flare framework , nette , vue js ,alpine js and ...
+  <p> <b>Full Stack Web Developer</b> . Interested in PHP and C. Fluent in JavaScript 100% Java 20% C 100% b4x 80% and laravel Framework codeIgnier, livewire , flare framework , nette , vue js ,alpine js and ...
    I work more on my own projects. And I share some of them in the github.
   <a target="_blank" href="https://www.instagram.com/phpdevelop.er/">"My instagram page"</a> link.</p>
 </div>
