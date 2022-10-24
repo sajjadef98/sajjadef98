@@ -1,5 +1,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<video width="100%" height="100%" controls loop>
+  <source src="https://mylivewallpapers.com/wp-content/uploads/Movies/PREVIEW-Alien-World-Rick-and-Morty.mp4" type="video/mp4">
+  <source src="https://mylivewallpapers.com/wp-content/uploads/Movies/PREVIEW-Alien-World-Rick-and-Morty.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 <p align="center">
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
