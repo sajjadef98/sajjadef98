@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
-<a href="https://idpay.ir/sajjadeftekhari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 
+</p>
+![](https://komarev.com/ghpvc/?username=sajjadef98&label=PROFILE+VIEWS)
 <div>
   <h1> About Me </h1>
   <p> <b>Full Stack Web Developer</b> . Interested in PHP and C. Fluent in JavaScript 100% Java 20% C 100% b4x 80% and laravel Framework codeIgnier, livewire , flare framework , nette , vue js ,alpine js and ...
