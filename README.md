@@ -17,4 +17,5 @@
 ![github](https://img.shields.io/badge/Sajjadef.ir-000000?style=for-the-badge&logo=Php&logoColor=blue)</a><a target="_blank" href="https://www.linkedin.com/in/sajjad-eftekhari">
 ![github](https://img.shields.io/badge/sajjad_eftekhari-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)</a><a target="_blank" href="https://www.instagram.com/phpdevelop.er/">
 ![github](https://img.shields.io/badge/phpdevelop.er-000000?style=for-the-badge&logo=instagram&logoColor=red) </a>
-![](https://komarev.com/ghpvc/?username=sajjadef98&label=PROFILE+VIEWS)
+<a target="_blank" href="#">
+![](https://komarev.com/ghpvc/?username=sajjadef98&label=PROFILE+VIEWS)</a>
